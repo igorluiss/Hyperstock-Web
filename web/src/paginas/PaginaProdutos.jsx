@@ -115,7 +115,7 @@ function PaginaProdutos() {
   return (
     <div className="pagina-produtos">
       <Helmet>
-        <title>Greenpath</title>
+        <title>HyperStock</title>
       </Helmet>
 
       <div
