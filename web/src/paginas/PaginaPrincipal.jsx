@@ -46,7 +46,7 @@ function PaginaPrincipal() {
   return (
     <div>
       <Helmet>
-        <title>Greenpath</title>
+        <title>HyperStock</title>
       </Helmet>
       <h1 className="titulo">Produtos em destaque</h1>
       <div className="produtos">
